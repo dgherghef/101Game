@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/101Game/static/css/main.cf861cd5.css",
+    "main.js": "/101Game/static/js/main.2698518a.js",
+    "static/js/787.9debb318.chunk.js": "/101Game/static/js/787.9debb318.chunk.js",
+    "index.html": "/101Game/index.html",
+    "main.cf861cd5.css.map": "/101Game/static/css/main.cf861cd5.css.map",
+    "main.2698518a.js.map": "/101Game/static/js/main.2698518a.js.map",
+    "787.9debb318.chunk.js.map": "/101Game/static/js/787.9debb318.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf861cd5.css",
+    "static/js/main.2698518a.js"
+  ]
+}
